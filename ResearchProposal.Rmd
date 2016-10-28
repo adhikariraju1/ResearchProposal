@@ -3,8 +3,7 @@ title: "Research Proposal: Effects of income inequality on environment"
 author: "Raju Adhikari and Mario Alonso Rodriguez"
 date: "October 28, 2016"
 output: html_document
-bibliography:
-- sources.bib
+bibliography: sources.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -22,7 +21,7 @@ Income inequality is one of the biggest issues grappling both developing and dev
 
 ## Literature Review:
 
-A few scholars are starting to connect the dots and analyze the relationship between inequality and environment.  Nobel Laureate Joseph E. Stiglitz argues that inequality can contribute to environmental degradation because the poor tend to have less interest in pursuing policies designed to protect the environment and therefore good environment policies will be less supported. (1) He also argues that the relationship goes both ways in the sense that good environmental policies will help build social cohesion and reduce inequality. (2) Nazrul Islam, a Senior Economic Affairs Officer at the Development Policy Analysis Division of UN DESA provides an analytical framework to explain negative correlations between inequality and quality of environment and suggests that reducing inequality will help protect the environment. (3) He adds that gender inequality is another dimension that affects environment thus providing us even more reason to examine this case. (3)
+A few scholars are starting to connect the dots and analyze the relationship between inequality and environment.  Nobel Laureate Joseph E. Stiglitz argues that inequality can contribute to environmental degradation because the poor tend to have less interest in pursuing policies designed to protect the environment and therefore good environment policies will be less supported. [@conca2014green] He also argues that the relationship goes both ways in the sense that good environmental policies will help build social cohesion and reduce inequality. (2) Nazrul Islam, a Senior Economic Affairs Officer at the Development Policy Analysis Division of UN DESA provides an analytical framework to explain negative correlations between inequality and quality of environment and suggests that reducing inequality will help protect the environment. (3) He adds that gender inequality is another dimension that affects environment thus providing us even more reason to examine this case. (3)
 
 ## Research Methodology and Data Sources:
 
