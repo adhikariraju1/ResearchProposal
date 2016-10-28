@@ -3,8 +3,8 @@ title: "Research Proposal: Effects of income inequality on environment"
 author: "Raju Adhikari and Mario Alonso Rodriguez"
 date: "October 28, 2016"
 output: html_document
-bibliography: 
-  - sources.bib
+bibliography:
+- sources.bib
 ---
 
 ```{r setup, include=FALSE}
