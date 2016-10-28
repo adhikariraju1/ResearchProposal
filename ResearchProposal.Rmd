@@ -1,5 +1,5 @@
 ---
-title: "Research Proposal: Effects of income inequality on environment"
+title: "Research Proposal: Effects of income inequality on the environment"
 author: "Raju Adhikari and Mario Alonso Rodriguez"
 date: "October 28, 2016"
 output: html_document
