@@ -1,0 +1,56 @@
+@article{lynch2000income,
+  title={Income inequality and mortality: importance to health of individual income, psychosocial environment, or material conditions},
+  author={Lynch, John W and Smith, George Davey and Kaplan, George A and House, James S},
+  journal={British Medical Journal},
+  volume={320},
+  number={7243},
+  pages={1200},
+  year={2000},
+  publisher={BMJ Publishing Group}
+}
+
+@article{roberts2001global,
+  title={Global inequality and climate change},
+  author={Roberts, J Timmons},
+  journal={Society \& Natural Resources},
+  volume={14},
+  number={6},
+  pages={501--509},
+  year={2001},
+  publisher={Taylor \& Francis}
+}
+
+@book{stern2007economics,
+  title={The economics of climate change: the Stern review},
+  author={Stern, Nicholas Herbert},
+  year={2007},
+  publisher={Cambridge University Press}
+}
+
+@article{barnett2007climate,
+  title={Climate change, human security and violent conflict},
+  author={Barnett, Jon and Adger, W Neil},
+  journal={Political geography},
+  volume={26},
+  number={6},
+  pages={639--655},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{gordon2007climate,
+  title={Climate change and the poorest nations: Further reflections on global inequality},
+  author={Gordon, Ruth},
+  journal={U. Colo. L. Rev.},
+  volume={78},
+  pages={1559},
+  year={2007},
+  publisher={HeinOnline}
+}
+
+@book{wilkinson2011spirit,
+  title={The spirit level: Why greater equality makes societies stronger},
+  author={Wilkinson, Richard and Pickett, Kate},
+  year={2011},
+  publisher={Bloomsbury Publishing USA}
+}
