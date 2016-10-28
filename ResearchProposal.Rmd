@@ -31,4 +31,4 @@ Theoretical analysis: Under this, we will analyze scholarly sources that have in
 
 Statistical analysis: To do a statistical analysis of the issue, it is extremely important to locate data sources. The World Bank Database has all the indicators necessary to do a thorough analysis of the topic. Some of the indicators used to measure inequality are: Gini Index, Palma ratio, etc. We will do a panel data regression with the Gini index as an independent variable and emissions of CO2 per capita as a dependent variable. We could also control for GDP per capita, which shows that the relationship between the two is not determined by the level of income. We will use various descriptive and inferential statistics and use plots, graphs and charts to show various relationship that the model may predict.
 
-
+## Sources Consulted:
