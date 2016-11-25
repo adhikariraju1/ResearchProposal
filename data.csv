@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="de" class="no-jquery">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+  <title>Seite nicht gefunden / Site not found - Der Bundeswahlleiter</title> 
+  <meta name="author" content="Der Bundeswahlleiter"> 
+  <link rel="stylesheet" href=".resources/bundeswahlleiter-theme/resources/css/style~2016-09-26-11-25-04-000~cache.css" media="all"> 
+  <link rel="stylesheet" href=".resources/bundeswahlleiter-theme/resources/css/webfonts~2016-09-26-11-25-04-000~cache.css" media="all"> 
+  <link rel="shortcut icon" href=".resources/bundeswahlleiter-theme/resources/img/favicon.ico"> 
+  <meta name="x-base-resources-uri" content=".resources/bundeswahlleiter-theme/resources/"> 
+  <script src=".resources/bundeswahlleiter-theme/resources/js/lib/jquery.min~2016-09-26-11-25-04-000~cache.js"></script> 
+  <script type="text/javascript">
+
+!function(){"use strict";function a(){var a=document.querySelector("meta[name=x-base-resources-uri]");return a?a.getAttribute("content"):null}function b(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function c(a){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===a}function d(){if(window.localStorage&&window.XMLHttpRequest)if(c(f))e(localStorage.font_css_cache);else{var a=new XMLHttpRequest;a.open("GET",f,!0),a.onreadystatechange=function(){4===a.readyState&&(e(a.responseText),localStorage.font_css_cache=a.responseText,localStorage.font_css_cache_file=f)},a.send()}else{var b=document.createElement("link");b.href=f,b.rel="stylesheet",b.type="text/css",document.getElementsByTagName("head")[0].appendChild(b),document.cookie="font_css_cache"}}function e(a){var b=document.createElement("style");b.setAttribute("type","text/css"),b.styleSheet?b.styleSheet.cssText=a:b.innerHTML=a,document.getElementsByTagName("head")[0].appendChild(b)}var f=(a()||".")+"/css/webfonts.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?d():b(window,"load",d)}();            </script> 
+ </head> 
+ <body id="top"> 
+  <header id="header" class="page-header" role="banner"> 
+   <div class="page-header__content"> 
+    <div class="container"> 
+     <a class="jumplink" href="#main" title="Zum Inhalt springen">Zum Inhalt springen</a> 
+     <div class="page-header__logo"> 
+      <a href="bundeswahlleiter.html" title="Der Bundeswahlleiter">Startseite</a> 
+     </div> 
+     <nav class="nav nav-service js-nav-service" role="navigation" aria-label="Service-Navigation"> 
+      <div class="nav__container "> 
+       <div class="nav__title"> 
+        <strong>Service-Navigation</strong> 
+       </div> 
+       <ul class="nav__list"> 
+        <li class="nav__listitem  "> <a href="info/leichte-sprache.html" title="Leichte Sprache">Leichte Sprache</a> </li> 
+        <li class="nav__listitem  "> <a href="info/barrierefreiheit.html" title="Barrierefreiheit">Barrierefreiheit</a> </li> 
+        <li class="nav__listitem  "> <a href="info/kontakt.html" title="Kontakt">Kontakt</a> </li> 
+        <li class="nav__listitem  nav__listitem--boxed"> <a href="info/presse.html" title="Presse">Presse</a> </li> 
+       </ul> 
+      </div> 
+     </nav> 
+     <div class="nav-main__menubuttons"> 
+      <button class="button" id="js-nav-main__button-open">Menü</button> 
+      <button class="button u-hidden" id="js-nav-main__button-close">Menü schließen</button> 
+     </div> 
+     <nav class="nav nav-main" id="js-nav-main" role="navigation" aria-label="Haupt-Navigation 1. Ebene"> 
+      <div class="nav__container "> 
+       <div class="nav__title"> 
+        <strong>Navigation</strong> 
+       </div> 
+       <ul class="nav__list"> 
+        <li class="nav__listitem  "> <a href="bundestagswahlen/2017.html" title="Bundestagswahl">Bundestagswahl</a> </li> 
+        <li class="nav__listitem  "> <a href="europawahlen/2014.html" title="Europawahl">Europawahl</a> </li> 
+        <li class="nav__listitem  "> <a href="parteien.html" title="Parteien">Parteien</a> </li> 
+        <li class="nav__listitem  "> <a href="service.html" title="Service">Service</a> </li> 
+        <li class="nav__listitem  "> <a href="ueber-uns.html" title="Über uns">Über uns</a> </li> 
+       </ul> 
+      </div> 
+     </nav> 
+    </div> 
+   </div> 
+  </header> 
+  <section class="section-title"> 
+   <div class="container"> 
+    <strong class="section-title__title"> Seite nicht gefunden / Site not found </strong> 
+   </div> 
+  </section> 
+  <nav class="nav nav-breadcrumb"> 
+   <div class="nav__container container"> 
+    <ul class="nav__list"> 
+     <li class="nav__listitem  "> <a href="bundeswahlleiter.html" title="Der Bundeswahlleiter">Startseite</a> </li> 
+     <li class="nav__listitem nav__listitem--active "> <a href="error404.html" title="Seite nicht gefunden / Site not found">Seite nicht gefunden / Site not found</a> </li> 
+    </ul> 
+   </div> 
+  </nav> 
+  <div class="container"> 
+   <div class="inner-wrapper"> 
+    <main id="main" class="page-content "> 
+     <meta http-equiv="refresh" content="8; URL=https://www.bundeswahlleiter.de"> 
+     <h1>Seite nicht gefunden</h1> 
+     <p>Die angeforderte Seite wurde nicht gefunden. Benutzen Sie bitte den nachfolgenden Link, um zur Startseite des Webangebotes des Bundeswahlleiters zu gelangen.</p> 
+     <p><a href="bundeswahlleiter.html">Startseite</a></p> 
+     <hr> 
+     <h1>Site not found</h1> 
+     <p>This site was not found on this server. Please use the following link to get the hompage of the Federal Returning Officer.</p> 
+     <p><a href="https://www.bundeswahlleiter.de/en/bundeswahlleiter.html">Homepage</a></p> 
+    </main> 
+    <div class="page-sidebar"> 
+     <aside> 
+     </aside> 
+    </div> 
+   </div> 
+  </div> 
+  <aside class="nav nav-meta" role="complementary" aria-label="Funktionsleiste"> 
+   <div class="nav__container container"> 
+    <div class="nav__title"> 
+     <strong>Meta-Navigation</strong> 
+    </div> 
+    <ul class="nav__list"> 
+     <li class="nav__listitem  "> <a href="javascript:window.print()" title="Seite drucken">Seite drucken</a> </li> 
+     <li class="nav__listitem  "> <a href="#top" title="Nach oben">Nach oben</a> </li> 
+    </ul> 
+   </div> 
+  </aside> 
+  <footer id="footer" class="page-footer" role="contentinfo"> 
+   <div class="container"> 
+    <div class="inner-wrapper"> 
+     <div class="footer-addresses "> 
+      <div class="inner-wrapper"> 
+       <div class="address"> 
+        <h3 class="address__title">Kontakt</h3> 
+        <ul class="list--notype"> 
+         <li> Telefon 0611 75-4863 </li> 
+         <li> Telefax 0611 72-4000 </li> 
+         <li> <a href="https://www.bundeswahlleiter.de/kontakt" title="Kontaktformular">Kontaktformular</a> </li> 
+        </ul> 
+       </div> 
+       <div class="address"> 
+        <h3 class="address__title">Servicezeiten</h3> 
+        <ul class="list--notype"> 
+         <li> Mo-Do 08:00-17:00 Uhr<br>Fr 08:00-15:00 Uhr </li> 
+        </ul> 
+       </div> 
+       <div class="address"> 
+        <h3 class="address__title">Postanschrift</h3> 
+        <ul class="list--notype"> 
+         <li> Der Bundeswahlleiter<br>Statistisches Bundesamt<br>65180 Wiesbaden </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <ul class="footer-links"> 
+      <li class="footer-links__item"><a href="info/impressum.html" title="Impressum">Impressum</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="container">
+     ©&nbsp;2016 Der Bundeswahlleiter 
+   </div> 
+  </footer> 
+  <script src=".resources/bundeswahlleiter-theme/resources/js/script.min~2016-09-26-11-25-04-000~cache.js"></script>   
+ </body>
+</html>
